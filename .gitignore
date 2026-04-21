@@ -10,7 +10,6 @@ build_temp/
 
 # Local setup and temporary workspace folders
 setup/
-tabs/
 
 # Local database and environment files
 *.db
