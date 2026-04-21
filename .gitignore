@@ -1,0 +1,28 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Build and packaging output
+build/
+dist/
+build_temp/
+*.spec
+
+# Local setup and temporary workspace folders
+setup/
+tabs/
+
+# Local database and environment files
+*.db
+*.sqlite
+*.sqlite3
+.env
+.env.*
+
+# IDE/editor
+.vscode/
+.idea/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
